@@ -1,0 +1,14 @@
+*.vscode
+migrations
+db.sqlite3
+__pycache__
+
+class Cocoa():
+    def __init__():
+        self.student_num = 10
+        self.teacher_num = 3
+        self.session_num = 5
+    def add():
+
+a = Cocoa()
+a.add()
